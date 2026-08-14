@@ -108,4 +108,4 @@ See the [`model/`](./model) folder.
 
 ---
 
-<p align="center"><i>Made with ❤️ by the Sanad team</i></p>
+<p align="center"><i>Made with ❤️ by the Senad team</i></p>
