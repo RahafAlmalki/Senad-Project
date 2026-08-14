@@ -80,7 +80,7 @@ See the [`model/`](./model) folder.
 
 [![Rahaf Almalki](https://img.shields.io/badge/Rahaf_Almalki-RahafAlmalki-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RahafAlmalki)
 
-[![Rawan Alahmadi](https://img.shields.io/badge/Rawan%20Alahmadi-Rawan-Alahmadi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rawan-Alahmadi)
+[Rawan Alahmadi](https://github.com/Rawan-Alahmadi)
 
 [![Ghala Alotaibi](https://img.shields.io/badge/Ghala%20Alotaibi-ghala44-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ghala44)
 
